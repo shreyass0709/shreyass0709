@@ -19,18 +19,11 @@
 <div align="center">
   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shre_yaspoojari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyas-s-60a33128b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shre_yaspoojari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyaspoojari292@gmail.com) 
+</div>
 
 <p align="center">
-  <img src="assets/github-animation.gif" width="800" alt="Developer Animation">
+  <img src="Subtle_cinematic_animation_-ezgif.com-resize.gif" alt="Developer Animation" width="60%">
 </p>
-
-</div>
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ## 🚀 Top Skills
 
@@ -51,6 +44,12 @@
 <img src="https://img.shields.io/badge/System%20Design-F59E0B?style=for-the-badge" />
 
 </p>
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 💻 Tech Stack
 
@@ -91,6 +90,7 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </p>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=shreyass0709&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
