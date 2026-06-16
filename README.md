@@ -106,7 +106,13 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shreyass0709&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=shreyass0709&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
+
+*"Build. Break. Learn. Repeat."*
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
